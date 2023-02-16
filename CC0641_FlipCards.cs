@@ -1,8 +1,5 @@
 ﻿/*
  * https://www.codechef.com/problems/FLIPCARDS
- * C:\Users\Karm\Documents\Dev\CodeChef\641-FLIPCARDS\Problem.pdf
- * file:///C:/Users/Karm/Documents/Dev/CodeChef/641-FLIPCARDS/Problem.pdf
- * 
 */
 
 using System;
